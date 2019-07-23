@@ -1,0 +1,5 @@
+wyc\pojo\User.class
+wyc\mapper\UserMapper.class
+wyc\service\UserService.class
+wyc\service\impl\UserServiceImpl.class
+wyc\controller\UserController.class
